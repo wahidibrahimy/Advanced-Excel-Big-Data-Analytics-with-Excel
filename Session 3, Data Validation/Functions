@@ -1,0 +1,7 @@
+Working with funtions:
+1) =AND(HOUR(D1)>=8,HOUR(D1)<=16,MOD(Minute(D1),15)=0)
+2) =AND(LEN(G1)=7,ISNUMBER(G1))
+3) Indirect
+4) isnumber, AND, YEAR, LEN,HOUR,MOD,Weekday
+5) =AND(YEAR(C1)=2019,C1>B1+2,WEEKDAY(C1)=1)
+
