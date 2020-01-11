@@ -1,1 +1,6 @@
-Working with Functions: Sum, Average, Max, Min, Proper, Trim
+Working with Functions: Sum, Average, Max, Min, Proper, Trim, IF and Nested IF, AND, NOT, OR, IFS, Switch, Vlookup, Match, Choose, Month, Year, Countif, Replace, Dollar.
+
+Projections
+Define Name
+Text to Column
+Convert Number To Date
